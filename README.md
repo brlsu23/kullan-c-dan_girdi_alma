@@ -1,2 +1,3 @@
-# kullanicidan_girdi_alma
+# receiving input from the user
+
 This repository contains beginner-level practice codes  written while learning C++ basics.
